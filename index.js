@@ -1,5 +1,5 @@
 function generateRandomRgbColor() {
-	return Math.floor(Math.random() * 255) + 1;
+	return Math.floor(Math.random() * 255);
 }
 
 function reloadColors() {
